@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Claudio Remote</string>
+    <string name="action_settings">Configuración Host</string>
+    <!-- Main layout -->
+    <string name="lbl001">Alarma:</string>
+    <string name="lbl002">Activa:</string>
+    <string name="lbl003">Sonando:</string>
+    <string name="lbl004">Minutos Snooze:</string>
+    <string name="lbl005">Número beeps:</string>
+    <string name="lbl006">Lux mín:</string>
+    <string name="lbl007">Lux máx:</string>
+    <string name="lbl008">Brillo mín:</string>
+    <string name="lbl009">Pausa inicio:</string>
+    <string name="lbl010">Lecturas Touch:</string>
+    <string name="lbl011">Aj.I:</string>
+    <string name="lbl012">Aj.M:</string>
+    <string name="lbl013">Aj.D:</string>
+    <string name="lbl014">Touch Largo:</string>
+    <string name="lbl015">OK</string>
+
+    <!-- Configuration layout -->
+    <string name="lbl016">Dirección IP Claudio</string>
+    <string name="lbl017">(Ej.: 192.168.1.41)</string>
+    <string name="lbl018">Puerto</string>
+    <string name="lbl019">(Ej.: 1234)</string>
+    <string name="lbl020">Cancelar</string>
+    <string name="lbl021">Aceptar</string>
+    <string name="title_activity_configuration">Configuración Host</string>
+
+
+</resources>
