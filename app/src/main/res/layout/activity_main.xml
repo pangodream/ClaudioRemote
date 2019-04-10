@@ -54,7 +54,7 @@
                     android:id="@+id/ALARHO"
                     android:layout_width="42dp"
                     android:layout_height="44dp"
-                    android:layout_marginStart="184dp"
+                    android:layout_marginStart="204dp"
                     android:layout_marginTop="16dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -108,7 +108,7 @@
 
                 <EditText
                     android:id="@+id/MINLUX"
-                    android:layout_width="42dp"
+                    android:layout_width="56dp"
                     android:layout_height="44dp"
                     android:layout_marginStart="4dp"
                     android:layout_marginTop="22dp"
@@ -120,9 +120,9 @@
 
                 <EditText
                     android:id="@+id/MAXLUX"
-                    android:layout_width="42dp"
+                    android:layout_width="57dp"
                     android:layout_height="44dp"
-                    android:layout_marginStart="4dp"
+                    android:layout_marginStart="8dp"
                     android:ems="10"
                     android:inputType="textPersonName"
                     android:textAlignment="center"
@@ -131,8 +131,8 @@
 
                 <EditText
                     android:id="@+id/MINBRG"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="57dp"
+                    android:layout_height="47dp"
                     android:layout_marginTop="16dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -142,8 +142,8 @@
 
                 <EditText
                     android:id="@+id/BOOTWT"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="57dp"
+                    android:layout_height="45dp"
                     android:layout_marginTop="22dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -153,8 +153,8 @@
 
                 <EditText
                     android:id="@+id/TOUCHR"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="61dp"
+                    android:layout_height="45dp"
                     android:layout_marginTop="22dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -164,8 +164,8 @@
 
                 <EditText
                     android:id="@+id/THTCHL"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="53dp"
+                    android:layout_height="47dp"
                     android:layout_marginStart="4dp"
                     android:layout_marginTop="16dp"
                     android:ems="10"
@@ -176,8 +176,8 @@
 
                 <EditText
                     android:id="@+id/THTCHM"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="54dp"
+                    android:layout_height="46dp"
                     android:layout_marginStart="4dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -187,8 +187,8 @@
 
                 <EditText
                     android:id="@+id/THTCHR"
-                    android:layout_width="42dp"
-                    android:layout_height="44dp"
+                    android:layout_width="56dp"
+                    android:layout_height="45dp"
                     android:layout_marginStart="4dp"
                     android:ems="10"
                     android:inputType="textPersonName"
@@ -240,8 +240,8 @@
 
                 <TextView
                     android:id="@+id/textView6"
-                    android:layout_width="137dp"
-                    android:layout_height="27dp"
+                    android:layout_width="165dp"
+                    android:layout_height="26dp"
                     android:text="@string/lbl004"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -250,7 +250,7 @@
 
                 <TextView
                     android:id="@+id/textView7"
-                    android:layout_width="138dp"
+                    android:layout_width="167dp"
                     android:layout_height="28dp"
                     android:text="@string/lbl005"
                     android:textSize="18sp"
@@ -260,8 +260,8 @@
 
                 <TextView
                     android:id="@+id/textView8"
-                    android:layout_width="73dp"
-                    android:layout_height="28dp"
+                    android:layout_width="92dp"
+                    android:layout_height="29dp"
                     android:text="@string/lbl006"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -270,8 +270,8 @@
 
                 <TextView
                     android:id="@+id/textView10"
-                    android:layout_width="90dp"
-                    android:layout_height="27dp"
+                    android:layout_width="121dp"
+                    android:layout_height="25dp"
                     android:text="@string/lbl008"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -280,8 +280,8 @@
 
                 <TextView
                     android:id="@+id/textView11"
-                    android:layout_width="109dp"
-                    android:layout_height="27dp"
+                    android:layout_width="148dp"
+                    android:layout_height="26dp"
                     android:text="@string/lbl009"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -290,7 +290,7 @@
 
                 <TextView
                     android:id="@+id/textView12"
-                    android:layout_width="140dp"
+                    android:layout_width="168dp"
                     android:layout_height="27dp"
                     android:text="@string/lbl010"
                     android:textSize="18sp"
@@ -300,8 +300,8 @@
 
                 <TextView
                     android:id="@+id/textView16"
-                    android:layout_width="116dp"
-                    android:layout_height="29dp"
+                    android:layout_width="147dp"
+                    android:layout_height="27dp"
                     android:text="@string/lbl014"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -310,7 +310,7 @@
 
                 <TextView
                     android:id="@+id/textView13"
-                    android:layout_width="34dp"
+                    android:layout_width="48dp"
                     android:layout_height="24dp"
                     android:text="@string/lbl011"
                     android:textSize="18sp"
@@ -320,8 +320,8 @@
 
                 <TextView
                     android:id="@+id/textView14"
-                    android:layout_width="43dp"
-                    android:layout_height="29dp"
+                    android:layout_width="54dp"
+                    android:layout_height="23dp"
                     android:layout_marginStart="6dp"
                     android:text="@string/lbl012"
                     android:textSize="18sp"
@@ -331,8 +331,8 @@
 
                 <TextView
                     android:id="@+id/textView15"
-                    android:layout_width="34dp"
-                    android:layout_height="29dp"
+                    android:layout_width="51dp"
+                    android:layout_height="30dp"
                     android:layout_marginStart="6dp"
                     android:text="@string/lbl013"
                     android:textSize="18sp"
@@ -342,9 +342,9 @@
 
                 <TextView
                     android:id="@+id/textView9"
-                    android:layout_width="79dp"
-                    android:layout_height="26dp"
-                    android:layout_marginStart="6dp"
+                    android:layout_width="89dp"
+                    android:layout_height="27dp"
+                    android:layout_marginStart="20dp"
                     android:text="@string/lbl007"
                     android:textSize="18sp"
                     android:textStyle="bold"
